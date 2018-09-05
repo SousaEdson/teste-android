@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name='btnUm'>1</string>
+    <string name='btnDois'>2</string>
+    <string name='btnTres'>3</string>
+    <string name='btnQuatro'>4</string>
+    <string name='btnCinco'>5</string>
+    <string name='btnSeis'>6</string>
+    <string name='btnSete'>7</string>
+    <string name='btnOito'>8</string>
+    <string name='btnNove'>9</string>
+</resources>
